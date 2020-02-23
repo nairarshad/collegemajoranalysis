@@ -1,1 +1,1 @@
-# collegemajoranalysis
+Repo containing college_major_analysis.rds for Coursera Regression Models course
